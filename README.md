@@ -1,4 +1,4 @@
 # whoami
 This is my first Repository
 <br>
-Author - <Sumi Debnath>.
+Author - <b>SUMI DEBNATH</b>
